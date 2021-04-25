@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1098548348382",
+    "project_id": "gnushxb",
+    "storage_bucket": "gnushxb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098548348382:android:dd8b7e6e038b8e5b04494f",
+        "android_client_info": {
+          "package_name": "com.example.earthquake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098548348382-ib8er7ni6i12rj1anucvt8glftefosrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiE2tTHCljxo3FM0BGE5ttf4qJFopKHrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098548348382-ib8er7ni6i12rj1anucvt8glftefosrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
